@@ -18,3 +18,4 @@ Designed a branded, professional landing page using **Google Sites** for a Real 
 - Integrated client branding and imagery
 
 ## 📸 Screenshots
+[assets/screenshots](assets/screenshots)
